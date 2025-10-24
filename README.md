@@ -49,7 +49,7 @@ src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" heig
 </div>
 <h3 align="left">Connect with me </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/chandu-ummanaveni-592822255/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rawpixel.com%2Fsearch%2Flinkedin%2520icon&psig=AOvVaw2VmvPF_Yl1mdkoimbpyck7&ust=1761390388070000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCF8NnYvJADFQAAAAAdAAAAABAE" alt="chandu ummanaveni" height="26" width="35" /></a>
+<a href="https://www.linkedin.com/in/chandu-ummanaveni-592822255/" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png" alt="chandu ummanaveni" height="26" width="35" /></a>
 <a href="https://www.instagram.com/_chandu_07____/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.chandu" height="30" width="40" /></a>
 </p>
 

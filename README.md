@@ -58,16 +58,3 @@ src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" heig
 </div>
 
 
-
-<!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekganvir&layout=donut-vertical&show_icons=true&theme=radical)
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-  
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekganvir&show_icons=true&theme=radical)
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>

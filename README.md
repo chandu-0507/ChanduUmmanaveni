@@ -50,7 +50,7 @@ src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" heig
 <h3 align="left">Connect with me </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/chandu-ummanaveni-592822255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandu ummanaveni" height="26" width="35" /></a>
-<a href="https://www.instagram.com/_chandu_07____/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_chandu_07____/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.chandu" height="30" width="40" /></a>
 </p>
 
  <div align="left">
